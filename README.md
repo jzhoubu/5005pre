@@ -61,14 +61,36 @@ Explore this data story ...
     <tr>
         <td>
             <iframe width="400" height="200" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/216.embed"></iframe>
-            Video 1
         </td>
         <td>
             <iframe width="400" height="200" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/224.embed"></iframe>
             <br/>
-            Video 2
         </td>
     </tr>
 </table>
 
-1234
+<table cellpadding="10">
+    <tr>
+        <td>
+            <iframe width="600" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/216.embed"></iframe>
+        </td>
+        <td>
+            <iframe width="600" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/224.embed"></iframe>
+            <br/>
+        </td>
+    </tr>
+</table>
+
+<table cellpadding="0">
+    <tr>
+        <td>
+            <iframe width="600" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/216.embed"></iframe>
+        </td>
+        <td>
+            <iframe width="600" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/224.embed"></iframe>
+            <br/>
+        </td>
+    </tr>
+</table>
+
+12345
