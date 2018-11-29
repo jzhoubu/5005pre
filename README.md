@@ -1,4 +1,4 @@
-# 5005 Presetation
+# Knowledge Discover from Horizon Graph
 
 Link to site : https://sysu-zjw.github.io/5005pre/
 
@@ -9,7 +9,6 @@ Explore this data story ...
 
 # Streaming River
 <iframe width="900" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/206.embed"></iframe>
-
 
 # BTC
 <iframe width="900" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/218.embed"></iframe>
@@ -25,3 +24,29 @@ Explore this data story ...
 
 # All horizon
 <iframe width="900" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/226.embed"></iframe>
+
+
+<table border=0 >
+      <tr>
+          <td width="20%" align="middle" valign="middle">
+              <b> BTC </b>
+          </td>
+          <td width="40%"> 
+            <iframe width="900" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/218.embed"></iframe>
+          </td>
+          <td width="40%" align="middle" valign="middle">
+            <iframe width="900" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/220.embed"></iframe>
+          </td>
+      </tr>
+      <tr>
+          <td width="20%" align="middle" valign="middle">
+              <b> NEO </b>
+          </td>
+          <td width="40%"> 
+            <iframe width="900" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/216.embed"></iframe>
+          </td>
+          <td width="40%" align="middle" valign="middle">
+            <iframe width="900" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/224.embed"></iframe>
+          </td>
+      </tr>
+</table>
