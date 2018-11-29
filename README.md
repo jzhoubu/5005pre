@@ -45,11 +45,11 @@ Then We stack each graph of coin to make horizon graph, with which we could comp
 
 
 ## Knowledge Discovery
-1) Five types of coins' volume share nearly same distribution. They all raised dramatically during the end of 2017 and the beginning of 2018, and then went down to where slight higher than the beginning.
+- Five types of coins' volume share nearly same distribution. They all raised dramatically during the end of 2017 and the beginning of 2018, and then went down to where slight higher than the beginning.
 
-2) The volumne of BTC is more preserving, because it only raise up to 4 * std while others raise up 7 to 10+, and reduce slower than others.
+- The volumne of BTC is more preserving, because it only raise up to 4 * std while others raise up 7 to 10+, and reduce slower than others.
 
-3) BTC is the first coin raise up at the end of 2017, which means changes on BTC could affect changes of others.
+- BTC is the first coin raise up at the end of 2017, which means changes on BTC could affect changes of others.
 
 
 
