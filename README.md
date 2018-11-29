@@ -26,48 +26,7 @@ Explore this data story ...
 <iframe width="900" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/226.embed"></iframe>
 
 
-<table border=0 >
-   <tbody>
-      <tr>
-          <td width="20%" align="middle" valign="middle">
-              <b> BTC </b>
-          </td>
-          <td width="40%"> 
-            <div id='outerdiv' style="width:50px; overflow-x:hidden;">
-               <iframe width="100%" height="100%" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/218.embed"></iframe>
-            </div>
-          </td>
-          <td width="40%" align="middle" valign="middle">
-            <div id='outerdiv' style="width:50px; overflow-x:hidden;">
-               <iframe width="100%" height="100%" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/220.embed"></iframe>
-            </div>
-          </td>
-      </tr>
-      <tr>
-          <td width="20%" align="middle" valign="middle">
-              <b> NEO </b>
-          </td>
-          <td width="40%"> 
-            <iframe width="900" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/216.embed"></iframe>
-          </td>
-          <td width="40%" align="middle" valign="middle">
-            <iframe width="900" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/224.embed"></iframe>
-          </td>
-      </tr>
-    </tbody>
-</table>
 
-<table cellpadding="10">
-    <tr>
-        <td>
-            <iframe width="400" height="200" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/216.embed"></iframe>
-        </td>
-        <td>
-            <iframe width="400" height="200" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/224.embed"></iframe>
-            <br/>
-        </td>
-    </tr>
-</table>
 
 <table cellpadding="10">
     <tr>
@@ -79,18 +38,16 @@ Explore this data story ...
             <br/>
         </td>
     </tr>
-</table>
-
-<table cellpadding="0">
     <tr>
         <td>
-            <iframe width="400" height="300" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/216.embed"></iframe>
+            <iframe width="600" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/218.embed"></iframe>
         </td>
         <td>
-            <iframe width="400" height="300" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/224.embed"></iframe>
+            <iframe width="600" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/220.embed"></iframe>
             <br/>
         </td>
-    </tr>
+    </tr>         
 </table>
+
 
 12345
