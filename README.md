@@ -33,7 +33,9 @@ Explore this data story ...
               <b> BTC </b>
           </td>
           <td width="40%"> 
+            <div id='outerdiv' style="width:800px; overflow-x:hidden;">
             <iframe width="900" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/218.embed"></iframe>
+            </div>
           </td>
           <td width="40%" align="middle" valign="middle">
             <iframe width="900" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/220.embed"></iframe>
