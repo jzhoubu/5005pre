@@ -33,13 +33,13 @@ Explore this data story ...
               <b> BTC </b>
           </td>
           <td width="40%"> 
-            <div id='outerdiv' style="width:100px; overflow-x:hidden;">
-            <iframe width="100%" height="100%" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/218.embed"></iframe>
+            <div id='outerdiv' style="width:50px; overflow-x:hidden;">
+               <iframe width="100%" height="100%" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/218.embed"></iframe>
             </div>
           </td>
           <td width="40%" align="middle" valign="middle">
-            <div id='outerdiv' style="width:100px; overflow-x:hidden;">
-            <iframe width="100%" height="100%" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/220.embed"></iframe>
+            <div id='outerdiv' style="width:50px; overflow-x:hidden;">
+               <iframe width="100%" height="100%" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/220.embed"></iframe>
             </div>
           </td>
       </tr>
@@ -58,13 +58,4 @@ Explore this data story ...
 </table>
 
 
-<table border=0 >
-    <tbody>
-        <tr>
-            <td width="20%" > <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/img/5002A2_num1.png"> </td>
-            <td width="20%"> <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/img/5002A2_num2.png"> </td>
-            <td width="20%"> <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/img/5002A2_num3.png"> </td>
-            <td width="20%"> <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/img/5002A2_num4.png""> </td>
-        </tr>
-    </tbody>
-</table>
+123
