@@ -84,10 +84,10 @@ Explore this data story ...
 <table cellpadding="0">
     <tr>
         <td>
-            <iframe width="600" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/216.embed"></iframe>
+            <iframe width="400" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/216.embed"></iframe>
         </td>
         <td>
-            <iframe width="600" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/224.embed"></iframe>
+            <iframe width="400" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/224.embed"></iframe>
             <br/>
         </td>
     </tr>
