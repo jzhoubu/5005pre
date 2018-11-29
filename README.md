@@ -27,6 +27,7 @@ Explore this data story ...
 
 
 <table border=0 >
+   <tbody>
       <tr>
           <td width="20%" align="middle" valign="middle">
               <b> BTC </b>
@@ -49,4 +50,17 @@ Explore this data story ...
             <iframe width="900" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/224.embed"></iframe>
           </td>
       </tr>
+    </tbody>
+</table>
+
+
+<table border=0 >
+    <tbody>
+        <tr>
+            <td width="20%" > <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/img/5002A2_num1.png"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/img/5002A2_num2.png"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/img/5002A2_num3.png"> </td>
+            <td width="20%"> <img src="https://github.com/sysu-zjw/BDT-Homework/blob/master/img/5002A2_num4.png""> </td>
+        </tr>
+    </tbody>
 </table>
