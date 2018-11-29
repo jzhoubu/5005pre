@@ -34,11 +34,11 @@ Explore this data story ...
           </td>
           <td width="40%"> 
             <div id='outerdiv' style="width:200px; overflow-x:hidden;">
-            <iframe width="200" height="100" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/218.embed"></iframe>
+            <iframe width="100%" height="100%" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/218.embed"></iframe>
             </div>
           </td>
           <td width="40%" align="middle" valign="middle">
-            <iframe width="200" height="100" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/220.embed"></iframe>
+            <iframe width="100%" height="100%" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/220.embed"></iframe>
           </td>
       </tr>
       <tr>
