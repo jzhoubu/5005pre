@@ -57,14 +57,14 @@ Explore this data story ...
     </tbody>
 </table>
 
-<table cellpadding="15">
+<table cellpadding="10">
     <tr>
         <td>
-            <iframe width="900" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/216.embed"></iframe>
+            <iframe width="400" height="200" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/216.embed"></iframe>
             Video 1
         </td>
         <td>
-            <iframe width="900" height="400" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/224.embed"></iframe>
+            <iframe width="400" height="200" frameborder="0" scrolling="no" src="//plot.ly/~sysu-zjw/224.embed"></iframe>
             <br/>
             Video 2
         </td>
